@@ -61,7 +61,7 @@ Jacob Preciado - [Github](https://github.com/jmpre28)
 
 # Link 
 
-- [Deployment](https://intellistock-production.up.railway.app/)
+
 
 ## Image 
 ![IntelliStock](./client/src/assets/images/IntelliStock_ss.jpeg)
